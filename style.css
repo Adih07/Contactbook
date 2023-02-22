@@ -1,0 +1,28 @@
+body {
+  margin: 15%;
+  background-color: rgb(200, 210, 219);
+}
+
+.container {
+  border: thick double rgb(255, 255, 255);
+}
+
+#name {
+  border: 1px solid orange;
+}
+
+#surname {
+  border: 1px solid orange;
+}
+
+#photo {
+  border: 1px solid orange;
+}
+
+#number {
+  border: 1px solid orange;
+}
+
+#email {
+  border: 1px solid orange;
+}
